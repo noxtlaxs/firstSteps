@@ -1,0 +1,19 @@
+git config --global user.name "noxtlaxs"
+git config --global user.email jesus.cgutierrez@alumnos.udg.mx
+
+git config --global user.name "noxtla"
+git config --global user.email noxtlaxs@gmail.com
+
+
+
+git remote add origin https://github.com/noxtla/tmp.git
+git push -u origin master 
+
+Master is the local branch
+repositorio remoto llamado origin
+Algo nuevo
+git remote add origin https://github.com/noxtlaxs/firstSteps.git
+
+Add 
+
+asd ad asd
